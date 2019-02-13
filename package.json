@@ -1,0 +1,27 @@
+{
+  "name": "wanjs-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --timeout 1000000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanglihua-wanglu/wanjs-utils.git"
+  },
+  "author": "zhanglihua-wanglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhanglihua-wanglu/wanjs-utils/issues"
+  },
+  "homepage": "https://github.com/zhanglihua-wanglu/wanjs-utils#readme",
+  "dependencies": {
+    "keythereum": "^1.0.4",
+    "wanchain-keystore": "0.0.1",
+    "web3": "^0.20.7"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
